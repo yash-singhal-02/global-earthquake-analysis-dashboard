@@ -40,6 +40,7 @@ The project also includes a cinematic **Welcome Page UI** designed for a smooth 
 - Depth Category (DAX-created)
 
 Custom DAX Columns:
+---
 DAX
 MagCategory =
 IF([Magnitude] < 5, "Low",
