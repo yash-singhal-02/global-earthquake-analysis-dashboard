@@ -54,62 +54,62 @@ IF([Depth] < 300, "Intermediate", "Deep"))
 ---
 
 ## 🛠️ Tools & Technologies
-Power BI Desktop
-
-DAX (Data Analysis Expressions)
-
-Data Modeling
-
-Data Cleaning & Transformation
-
-Visualization Design
-
-USGS Earthquake Dataset
+  Power BI Desktop
+  
+  DAX (Data Analysis Expressions)
+  
+  Data Modeling
+  
+  Data Cleaning & Transformation
+  
+  Visualization Design
+  
+  USGS Earthquake Dataset
 
 
 ---
 
 ## 🚀 Features of the Dashboard
-✔ 1. Welcome Page
-A cinematic landing screen with a clickable navigation button to the main dashboard.
+1. Welcome Page
+  A cinematic landing screen with a clickable navigation button to the main dashboard.
 
-✔ 2. Key Performance Indicators (KPIs)
-Total Earthquakes
-
-Average Magnitude
-
-Maximum Magnitude
-
-Average Depth
+2. Key Performance Indicators (KPIs)
+  Total Earthquakes
+  
+  Average Magnitude
+  
+  Maximum Magnitude
+  
+  Average Depth
 
 ✔ 3. Visualizations Included
-Earthquakes by Magnitude Category (Bar Chart)
-
-Earthquakes by Year (Line Chart)
-
-Earthquakes by Country (Custom Bar Chart)
-
-Depth vs Magnitude Relationship (Scatter Plot)
-
-Magnitude Distribution (%) (Pie Chart)
-
-Distribution of Earthquake Magnitudes (Histogram-Style Visual)
-
-Data Table with detailed event records
+  Earthquakes by Magnitude Category (Bar Chart)
+  
+  Earthquakes by Year (Line Chart)
+  
+  Earthquakes by Country (Custom Bar Chart)
+  
+  Depth vs Magnitude Relationship (Scatter Plot)
+  
+  Magnitude Distribution (%) (Pie Chart)
+  
+  Distribution of Earthquake Magnitudes (Histogram-Style Visual)
+  
+  Data Table with detailed event records
 
 ✔ 4. Filtering
-Year slicer allows viewing data selectively.
+  Year slicer allows viewing data selectively.
 
 
 ---
 
 ## 🔍 Insights Gained
-Most earthquakes recorded in this dataset fall under the Low magnitude category.
-
-Shallow earthquakes are the most frequent globally.
-
-The scatter plot shows no strict relationship but highlights clustering around shallow depths.
-
-Countries like Indonesia, Japan, Chile, and Alaska region have the highest number of events.
-
-Yearly patterns show fluctuations but overall consistent seismic activity.
+  Most earthquakes recorded in this dataset fall under the Low magnitude category.
+  
+  Shallow earthquakes are the most frequent globally.
+  
+  The scatter plot shows no strict relationship but highlights clustering around shallow depths.
+  
+  Countries like Indonesia, Japan, Chile, and Alaska region have the highest number of events.
+  
+  Yearly patterns show fluctuations but overall consistent seismic activity.
