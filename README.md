@@ -44,8 +44,8 @@ DAX
 MagCategory =
 IF([Magnitude] < 5, "Low",
 IF([Magnitude] < 7, "Medium", "High"))
+---
 DAX
-Copy code
 DepthCategory =
 IF([Depth] < 70, "Shallow",
 IF([Depth] < 300, "Intermediate", "Deep"))
