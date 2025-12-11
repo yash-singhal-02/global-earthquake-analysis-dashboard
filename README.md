@@ -49,7 +49,11 @@ Copy code
 DepthCategory =
 IF([Depth] < 70, "Shallow",
 IF([Depth] < 300, "Intermediate", "Deep"))
-🛠️ Tools & Technologies
+
+
+---
+
+## 🛠️ Tools & Technologies
 Power BI Desktop
 
 DAX (Data Analysis Expressions)
@@ -62,7 +66,10 @@ Visualization Design
 
 USGS Earthquake Dataset
 
-🚀 Features of the Dashboard
+
+---
+
+## 🚀 Features of the Dashboard
 ✔ 1. Welcome Page
 A cinematic landing screen with a clickable navigation button to the main dashboard.
 
@@ -93,7 +100,10 @@ Data Table with detailed event records
 ✔ 4. Filtering
 Year slicer allows viewing data selectively.
 
-🔍 Insights Gained
+
+---
+
+## 🔍 Insights Gained
 Most earthquakes recorded in this dataset fall under the Low magnitude category.
 
 Shallow earthquakes are the most frequent globally.
